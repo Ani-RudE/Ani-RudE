@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ani-RudE!
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning CSS and Python.
+- 💞️ I'll soon start learning JavaScript.
+- 📫 How to reach me - itsani.rude18@gmail.com
