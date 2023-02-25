@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ani-RudE!
 - 👀 Too lazy to write a bio.
-- 🌱 I’m currently learning Java and JavaScript.
-- 💞️ I'll soon start learning Figma.
+- 🌱 Currently learning JavaScript and Figma.
 - 📫 How to reach me - itsani.rude18@gmail.com
