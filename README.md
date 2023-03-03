@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniruddha</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">The fact that, I can wake up everyday and have something new to learn and program excites me! Trying hard to showcase my visual designing skills in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani-rude&label=Profile%20views&color=0e75b6&style=flat" alt="ani-rude" /> </p>
 
