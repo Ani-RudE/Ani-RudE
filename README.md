@@ -28,8 +28,8 @@
 
 #
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ani-rude&show_icons=true&locale=en&layout=compact" alt="ani-rude" /></p>
-<br>
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ani-rude&show_icons=true&locale=en" alt="ani-rude" /></p>
-<br>
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ani-rude&" alt="ani-rude" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ani-rude&show_icons=true&locale=en&layout=compact" alt="ani-rude" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ani-rude&show_icons=true&locale=en" alt="ani-rude" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ani-rude&" alt="ani-rude" /></p>
