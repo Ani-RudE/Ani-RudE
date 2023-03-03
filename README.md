@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript and Figma!**
 
-- 📫 How to reach me **itsani.rude18@gmail.com**
+- 📫 How to reach me - **itsani.rude18@gmail.com**
 
-- ⚡ Fun fact **Too lazy to write a bio 💤**
+- ⚡ **Too lazy to write a bio 💤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
