@@ -7,8 +7,10 @@
 <br>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ani-rude" alt="ani-rude" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ani-rude" alt="ani-rude" /></a> </p> -->
 <br>
+
+#
 
 - 🌱 I’m currently learning **JavaScript and Figma!**
 
