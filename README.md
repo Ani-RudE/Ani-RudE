@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Figma!**
 
-- 📫 How to reach me - **itsani.rude18@gmail.com**
+- 📫 How to reach me - **aniruddhadewangan@outlook.com**
 
 - ⚡ **Too lazy to write a bio 💤**
 
