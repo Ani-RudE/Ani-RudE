@@ -12,7 +12,7 @@
 
 #
 
-- 🌱 I’m currently learning **JavaScript and Figma!**
+- 🌱 I’m currently learning **React!**
 
 - 📫 How to reach me - **aniruddhadewangan@outlook.com**
 
