@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniruddha</h1>
-<p align="center">Hi 👋, I'm Aniruddha</p>
+<p align="center" font-size="42px">Hi 👋, I'm Aniruddha</p>
 <h3 align="center">The fact that, I can wake up everyday and have something new to learn and program excites me! Trying hard to showcase my visual designing skills in Web and UI/UX Designing.</h3>
 <br>
 
